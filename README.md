@@ -1,5 +1,5 @@
 # Quay.io
-Quay - Redhat openshift registry
+Quay - Redhat openshift registry -> https://docs.projectquay.io/welcome.html
 
 Red Hat OpenShift Quay refers to the integration and use of Red Hat Quay with Red Hat OpenShift Container Platform.
 Red Hat Quay is an enterprise-grade, distributed, and highly available container image registry. It provides secure storage, distribution, and management of container images and other cloud-native artifacts. Key features include: 
