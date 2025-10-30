@@ -4,8 +4,8 @@ Quay - Redhat openshift registry -> https://docs.projectquay.io/welcome.html
 Red Hat OpenShift Quay refers to the integration and use of Red Hat Quay with Red Hat OpenShift Container Platform.
 Red Hat Quay is an enterprise-grade, distributed, and highly available container image registry. It provides secure storage, distribution, and management of container images and other cloud-native artifacts. 
 
-**Key features include:
-****Image Vulnerability Scanning:** Integrates with Clair for vulnerability analysis of container images.
+**Key features include:**
+**Image Vulnerability Scanning:** Integrates with Clair for vulnerability analysis of container images.
 **Access Controls and Governance:** Offers granular permissions and management for repositories and content.
 **Geo-replication and Repository Mirroring:** Enables global distribution and high availability of images.
 **CI/CD Integration:** Facilitates automated builds and deployments with tools like GitHub and GitLab.
